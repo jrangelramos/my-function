@@ -1,0 +1,8 @@
+specVersion: 0.35.0
+name: my-function
+runtime: node
+registry: ""
+image: ""
+created: 2023-06-01T14:44:58.825466171-03:00
+build:
+  pvcSize: 256Mi
